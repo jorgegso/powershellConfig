@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Portfolio](https://github.com/jorgegso/reactPortafolio)
 
 <h3 align="left">Connect with me:hajorge2012@gmamil.com</h3>
-<h2 align="left">This is a json config file for poweshell this is only my personal bk for save it. </h2>
+<h1 align="left">This is a json config file for poweshell this is only my personal bk for save it. </h1>
 
 <p align="left">
 </p>
