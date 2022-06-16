@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm jorge</h1>
 <h3 align="center">A passionate frontend developer from In react and scripting</h3>
 
-- 🔭 I’m currently working on [Portfo](https://github.com/jorgegso/reactPortafolio)
+- 🔭 I’m currently working on [Portfolio](https://github.com/jorgegso/reactPortafolio)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:hajorge2012@gmamil.com</h3>
+<h3 align="left">This is a jscon config file for poweshell this is only my personal bk for save it. </h3>
+
 <p align="left">
 </p>
 
